@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D-Dobrev
+- 👋 Hi, I’m @Dobrin Dobrev
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Html, CSS, JavaScript, React, Bootstrap, Node, Express, Mongo
 - 💞️ I’m looking to collaborate on any project suitable for junior web developer
